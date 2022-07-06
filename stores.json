@@ -1,0 +1,184 @@
+[
+    {
+        "id": "62becf4afc13ae309c000708",
+        "name": "Fuller Shelf",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Food & Gifts",
+        "properties": {
+            "country" : "Turkey",
+            "address": "7 Ronald Regan Alley",
+            "description": "Emiliano Zapata"
+        },
+        "location": {
+            
+            "coordinates": {
+             "x":   51.505,
+            "y":   -0.09
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c000709",
+        "name": "Electrica",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Electronics",
+        "properties": {
+            "country" : "Turkey",
+            "address": "2671 Debs Avenue",
+            "description": "Huanghua"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   50.958332,
+             "y":   -1.080278
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070a",
+        "name": "Studio Belle",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Health & Beauty",
+        "properties": {
+            "country" : "Turkey",
+            "address": "23896 Texas Drive",
+            "description": "Shilong"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":  52.192001,
+             "y":  -2.220000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070b",
+        "name": "Transacta",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Sports & Outdoors",
+        "properties": {
+            "country" : "Turkey",
+            "address": "50307 Autumn Leaf Junction",
+            "description": "Erniusuokou"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   50.259998,
+              "y": -5.051000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070c",
+        "name": "Brilliant Boutique",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Clothing & Shoes",
+        "properties": {
+            "country" : "Turkey",
+            "address": "7208 Columbus Court",
+            "description": "Itauguá"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   50.3609511,
+            "y":    -5.050000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070d",
+        "name": "DollarSmart",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Clothing & Shoes",
+        "properties": {
+            "country" : "Turkey",
+            "address": "7629 Burning Wood Street",
+            "description": "Billa"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   51.383331,
+            "y":    -1.466667
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070e",
+        "name": "Shop & Smile",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Health & Beauty",
+        "properties": {
+            "country" : "Turkey",
+            "address": "804 Pearson Point",
+            "description": "Arbeláez"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   51.755001,
+             "y":  -0.336000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c00070f",
+        "name": "Electromax",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Electronics",
+        "properties": {
+            "country" : "Turkey",
+            "address": "14 Farragut Trail",
+            "description": "Nurota Shahri"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   50.396999,
+               "y": -3.437000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c000710",
+        "name": "Shopper's Delight",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Food & Gifts",
+        "properties": {
+            "country" : "Turkey",
+            "address": "7 Marquette Park",
+            "description": "Karangpete"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   52.966667,
+             "y":  -1.600000
+            }
+        }
+    },
+    {
+        "id": "62becf4afc13ae309c000711",
+        "name": "Smart Store",
+       "image": "https://i.pinimg.com/originals/db/0d/95/db0d95bd14a97209c1c80cb2d874cfbd.jpg",
+        "category": "Electronics",
+        "properties": {
+            "country" : "Turkey",
+            "address": "8 Grayhawk Way",
+            "description": "Nehe"
+        },
+        "location": {
+           
+            "coordinates": {
+             "x":   50.805832,
+            "y":    -1.087222
+            }
+        }
+    }
+]
+
+
